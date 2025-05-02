@@ -134,31 +134,6 @@ Welcome to my Computer Vision prep with OpenCV (`cv2`) for AI/ML interviews! �
 
 ---
 
-### 📊 Practical Applications
-
-#### 🛍️ Retail Applications
-- Product Recognition
-- Shelf Monitoring
-- Customer Tracking
-- Barcode/QR Code Detection
-
-#### 🚗 Autonomous Systems
-- Lane Detection
-- Traffic Sign Recognition
-- Obstacle Detection
-
-#### 🩺 Medical Imaging
-- Image Enhancement
-- Tumor Detection
-- Organ Segmentation
-
-#### 📸 Augmented Reality
-- Marker Detection
-- Pose Estimation
-- Image Overlay
-
----
-
 ### 🛠️ Optimization and Deployment
 
 #### ⚡ Performance Optimization
